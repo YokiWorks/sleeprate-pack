@@ -1,8 +1,7 @@
 ### Place information about your pack version here.
 ---
-name: st2-pack-template
-description: A blank pack template!
+name: sleeprate-pack
+description: sleeprate pack for stackstorm
 version: 0.1.0
-author: StackStorm Stanley
-email: stanley@stackstorm.com
-
+author: Itamar Perez
+email: itamar@sleeprate.com
